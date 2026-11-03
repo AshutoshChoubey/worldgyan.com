@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-08 | [Ep. 06 | Angular Main.ts Deep Dive](https://worldgyan.com/videos/-uwUmQNCktM) | [Watch on YouTube](https://www.youtube.com/watch?v=-uwUmQNCktM) |
+
 | 2023-09-10 | [Ep. 08 | Angular Component Essentials: Building Dynamic Web Apps](https://worldgyan.com/videos/4S2_-UoThAs) | [Watch on YouTube](https://www.youtube.com/watch?v=4S2_-UoThAs) |
 
 | 2023-09-11 | [Ep. 10 | Angular Input-Output Decorator](https://worldgyan.com/videos/j58YGx06fXI) | [Watch on YouTube](https://www.youtube.com/watch?v=j58YGx06fXI) |
