@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-06 | [Restarting Garage Application on Your Local System - Quick and Easy Guide Hindi](https://worldgyan.com/videos/1Lc3VDlfxOE) | [Watch on YouTube](https://www.youtube.com/watch?v=1Lc3VDlfxOE) |
+
 | 2023-09-06 | [The Complete Shopify Development Guide for developer](https://worldgyan.com/videos/eZTo2SOrWJo) | [Watch on YouTube](https://www.youtube.com/watch?v=eZTo2SOrWJo) |
 
 | 2023-09-07 | [Ep. 03 | Understanding package.json and package-lock.json](https://worldgyan.com/videos/3OeXFS7bLLc) | [Watch on YouTube](https://www.youtube.com/watch?v=3OeXFS7bLLc) |
