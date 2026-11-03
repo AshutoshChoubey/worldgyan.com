@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-06 | [The Complete Shopify Development Guide for developer](https://worldgyan.com/videos/eZTo2SOrWJo) | [Watch on YouTube](https://www.youtube.com/watch?v=eZTo2SOrWJo) |
+
 | 2023-09-07 | [Ep. 03 | Understanding package.json and package-lock.json](https://worldgyan.com/videos/3OeXFS7bLLc) | [Watch on YouTube](https://www.youtube.com/watch?v=3OeXFS7bLLc) |
 
 | 2023-09-07 | [Ep. 7 |  Angular Modules: Streamline Your App's Structure and Performance](https://worldgyan.com/videos/4F1ucfZR_dQ) | [Watch on YouTube](https://www.youtube.com/watch?v=4F1ucfZR_dQ) |
