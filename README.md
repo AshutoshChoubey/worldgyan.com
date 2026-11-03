@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-20 | [2 | RxJS & Angular Interview Series | switchMap vs mergeMap vs concatMap vs exhaustMap | Hindi](https://worldgyan.com/videos/6inG95LzA0I) | [Watch on YouTube](https://www.youtube.com/watch?v=6inG95LzA0I) |
+
 | 2025-09-21 | [3 | RxJS Angular Higher Order Operators: switchMap vs mergeMap vs concatMap vs exhaustMap 🚀 | Hindi](https://worldgyan.com/videos/-iOFB8wliLI) | [Watch on YouTube](https://www.youtube.com/watch?v=-iOFB8wliLI) |
 
 | 2025-09-23 | [4 | RxJs | Stop Event Spamming in RxJS 😲 Debounce, Throttle, ExhaustMap & DistinctUntilChanged](https://worldgyan.com/videos/6vDZoJ5ab_Y) | [Watch on YouTube](https://www.youtube.com/watch?v=6vDZoJ5ab_Y) |
