@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-06-09 | [6 | Angular Unit Testing for the component | TestBed.createComponent | component Fixture](https://worldgyan.com/videos/IetP4KQGT_g) | [Watch on YouTube](https://www.youtube.com/watch?v=IetP4KQGT_g) |
+
 | 2022-07-06 | [1 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/N8bIMHBW7K8) | [Watch on YouTube](https://www.youtube.com/watch?v=N8bIMHBW7K8) |
 
 | 2022-07-07 | [2 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/Sa4Idsr7etc) | [Watch on YouTube](https://www.youtube.com/watch?v=Sa4Idsr7etc) |
