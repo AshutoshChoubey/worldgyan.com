@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-09-05 | [2 | HTML Tutorial in Hindi | Learn HTML | How to learn HTML | Type of tags in HTML](https://worldgyan.com/videos/LaLTq0Pnd5U) | [Watch on YouTube](https://www.youtube.com/watch?v=LaLTq0Pnd5U) |
+
 | 2022-09-10 | [1a | HTML Tutorials |  What is HTML | How HTML Works | How to learn HTML](https://worldgyan.com/videos/Aj4bUzhn6zk) | [Watch on YouTube](https://www.youtube.com/watch?v=Aj4bUzhn6zk) |
 
 | 2022-09-10 | [1b | HTML Tutorials |  HTML element tags and attributes | What is DOM | How html works](https://worldgyan.com/videos/fbYePV0KSUc) | [Watch on YouTube](https://www.youtube.com/watch?v=fbYePV0KSUc) |
