@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-17 | [Ep. 19 | Exploring Angular Router Outlet Properties](https://worldgyan.com/videos/skLNdYq7pUE) | [Watch on YouTube](https://www.youtube.com/watch?v=skLNdYq7pUE) |
+
 | 2023-09-18 | [Ep. 20 | Angular Route Guards: Securing Your Application](https://worldgyan.com/videos/eOamqzMm1go) | [Watch on YouTube](https://www.youtube.com/watch?v=eOamqzMm1go) |
 
 | 2023-09-19 | [Ep. 21 | Angular Services: Best Practices and Implementation](https://worldgyan.com/videos/V5VQ7D9pIyE) | [Watch on YouTube](https://www.youtube.com/watch?v=V5VQ7D9pIyE) |
