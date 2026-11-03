@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-02 | [Setting Up Garage Management Software on Your Local System - Step-by-Step Guide Hindi](https://worldgyan.com/videos/B0H-QhKv6Ak) | [Watch on YouTube](https://www.youtube.com/watch?v=B0H-QhKv6Ak) |
+
 | 2023-09-02 | [What is Main.ts  file in Angular](https://worldgyan.com/videos/ziZPNq9RnEU) | [Watch on YouTube](https://www.youtube.com/watch?v=ziZPNq9RnEU) |
 
 | 2023-09-03 | [Ep. 1 | Getting Started: Installing Angular Framework](https://worldgyan.com/videos/V_ZbBY2-Ts0) | [Watch on YouTube](https://www.youtube.com/watch?v=V_ZbBY2-Ts0) |
