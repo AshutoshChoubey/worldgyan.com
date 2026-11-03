@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-04 | [Ep. 01 | CSS Introduction: Inline, Internal, and External Stylesheets](https://worldgyan.com/videos/1bQMTO_6RQE) | [Watch on YouTube](https://www.youtube.com/watch?v=1bQMTO_6RQE) |
+
 | 2023-09-05 | [Ep. 02 | Angular Course File and Folder Structure](https://worldgyan.com/videos/UtMD4l_mNB0) | [Watch on YouTube](https://www.youtube.com/watch?v=UtMD4l_mNB0) |
 
 | 2023-09-05 | [Ep. 09 | Angular Data Binding Mastery: Boost Your Web Development Skills](https://worldgyan.com/videos/XU3Ml2kSMRM) | [Watch on YouTube](https://www.youtube.com/watch?v=XU3Ml2kSMRM) |
