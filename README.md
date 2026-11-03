@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-07 | [Ep. 7 |  Angular Modules: Streamline Your App's Structure and Performance](https://worldgyan.com/videos/4F1ucfZR_dQ) | [Watch on YouTube](https://www.youtube.com/watch?v=4F1ucfZR_dQ) |
+
 | 2023-09-07 | [Ep. 05 |  angular json Mastering Angular File Structure and Best Practices](https://worldgyan.com/videos/8f5Ltnz5zQg) | [Watch on YouTube](https://www.youtube.com/watch?v=8f5Ltnz5zQg) |
 
 | 2023-09-08 | [Ep. 06 | Angular Main.ts Deep Dive](https://worldgyan.com/videos/-uwUmQNCktM) | [Watch on YouTube](https://www.youtube.com/watch?v=-uwUmQNCktM) |
