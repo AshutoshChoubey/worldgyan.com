@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-10 | [15 | TypeScript Interview Series | Advanced Types in TypeScript: Mapped Types (Optional & Nullable)](https://worldgyan.com/videos/ApWuhL2b1tM) | [Watch on YouTube](https://www.youtube.com/watch?v=ApWuhL2b1tM) |
+
 | 2025-09-11 | [16 | TypeScript Interview Series | Conditional Types & Template Literal Types | Hindi](https://worldgyan.com/videos/HyfcwnGZmuQ) | [Watch on YouTube](https://www.youtube.com/watch?v=HyfcwnGZmuQ) |
 
 | 2025-09-14 | [17 | TypeScript Interview Series | Any vs Unknown in TypeScript | Hindi](https://worldgyan.com/videos/3sw377uUVFw) | [Watch on YouTube](https://www.youtube.com/watch?v=3sw377uUVFw) |
