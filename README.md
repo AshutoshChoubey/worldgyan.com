@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-07-13 | [2  | Data Structures and Algorithms English | Array List | Reverse Array | Rotate Array](https://worldgyan.com/videos/HIABwF3nCtw) | [Watch on YouTube](https://www.youtube.com/watch?v=HIABwF3nCtw) |
+
 | 2022-07-14 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://worldgyan.com/videos/MBMP6WiRV4o) | [Watch on YouTube](https://www.youtube.com/watch?v=MBMP6WiRV4o) |
 
 | 2022-07-14 | [3  | Data Structures and Algorithms | Rotate the elements in an array  in JavaScript English](https://worldgyan.com/videos/va_UGVlnxXs) | [Watch on YouTube](https://www.youtube.com/watch?v=va_UGVlnxXs) |
