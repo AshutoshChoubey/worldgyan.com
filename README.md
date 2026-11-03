@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-07-14 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://worldgyan.com/videos/MBMP6WiRV4o) | [Watch on YouTube](https://www.youtube.com/watch?v=MBMP6WiRV4o) |
+
 | 2022-07-14 | [3  | Data Structures and Algorithms | Rotate the elements in an array  in JavaScript English](https://worldgyan.com/videos/va_UGVlnxXs) | [Watch on YouTube](https://www.youtube.com/watch?v=va_UGVlnxXs) |
 
 | 2022-09-05 | [2 | HTML Tutorial in Hindi | Learn HTML | How to learn HTML | Type of tags in HTML](https://worldgyan.com/videos/LaLTq0Pnd5U) | [Watch on YouTube](https://www.youtube.com/watch?v=LaLTq0Pnd5U) |
