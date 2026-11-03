@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-08-18 | [5 | TypeScript Interview Series | Built-in Symbols & Custom Iterators (Symbol.iterator) | Hindi](https://worldgyan.com/videos/T-fA1t7-YKo) | [Watch on YouTube](https://www.youtube.com/watch?v=T-fA1t7-YKo) |
+
 | 2025-08-30 | [6 | TypeScript Interview Series | Non-Primitive Data Types in TypeScript | Hindi](https://worldgyan.com/videos/JkVqvOzoZjo) | [Watch on YouTube](https://www.youtube.com/watch?v=JkVqvOzoZjo) |
 
 | 2025-09-01 | [7 | TypeScript Interview Series | Enum in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/4fWxk1zi9hk) | [Watch on YouTube](https://www.youtube.com/watch?v=4fWxk1zi9hk) |
