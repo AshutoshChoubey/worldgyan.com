@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-08-16 | [2 | TypeScript Interview Series | JavaScript Problems Solved by TypeScript | Hindi](https://worldgyan.com/videos/oWYkofDMcaE) | [Watch on YouTube](https://www.youtube.com/watch?v=oWYkofDMcaE) |
+
 | 2025-08-16 | [3 | TypeScript Interview Series | Basic TypeScript: Primitive & Symbol Data Types Explained | Hindi](https://worldgyan.com/videos/wRu2o-HdjZk) | [Watch on YouTube](https://www.youtube.com/watch?v=wRu2o-HdjZk) |
 
 | 2025-08-17 | [4 | TypeScript Interview Series | Symbol Type Explained with Examples | Hindi](https://worldgyan.com/videos/C2nWFqutAXs) | [Watch on YouTube](https://www.youtube.com/watch?v=C2nWFqutAXs) |
