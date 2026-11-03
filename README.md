@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-08-15 | [Docker vs Virtual Machine Explained | Hindi](https://worldgyan.com/videos/ti7oF-vNinY) | [Watch on YouTube](https://www.youtube.com/watch?v=ti7oF-vNinY) |
+
 | 2025-08-16 | [2 | TypeScript Interview Series | JavaScript Problems Solved by TypeScript | Hindi](https://worldgyan.com/videos/oWYkofDMcaE) | [Watch on YouTube](https://www.youtube.com/watch?v=oWYkofDMcaE) |
 
 | 2025-08-16 | [3 | TypeScript Interview Series | Basic TypeScript: Primitive & Symbol Data Types Explained | Hindi](https://worldgyan.com/videos/wRu2o-HdjZk) | [Watch on YouTube](https://www.youtube.com/watch?v=wRu2o-HdjZk) |
