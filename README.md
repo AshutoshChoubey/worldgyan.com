@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-02 | [8 | TypeScript Interview Series | Union Types & Interface Types in TypeScript | Hindi](https://worldgyan.com/videos/qA222vegbu8) | [Watch on YouTube](https://www.youtube.com/watch?v=qA222vegbu8) |
+
 | 2025-09-03 | [9 | TypeScript Interview Series | Inheritance in interface in typescript Explained | Hindi](https://worldgyan.com/videos/jbxB7YJc6Jg) | [Watch on YouTube](https://www.youtube.com/watch?v=jbxB7YJc6Jg) |
 
 | 2025-09-04 | [10 | TypeScript Interview Series | Generic Types in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/_ePaceZU8CQ) | [Watch on YouTube](https://www.youtube.com/watch?v=_ePaceZU8CQ) |
