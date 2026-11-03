@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-10 | [Ep. 08 | Angular Component Essentials: Building Dynamic Web Apps](https://worldgyan.com/videos/4S2_-UoThAs) | [Watch on YouTube](https://www.youtube.com/watch?v=4S2_-UoThAs) |
+
 | 2023-09-11 | [Ep. 10 | Angular Input-Output Decorator](https://worldgyan.com/videos/j58YGx06fXI) | [Watch on YouTube](https://www.youtube.com/watch?v=j58YGx06fXI) |
 
 | 2023-09-12 | [Ep. 12 | Standalone Components in Angular in details](https://worldgyan.com/videos/RCAi1LdX-Qs) | [Watch on YouTube](https://www.youtube.com/watch?v=RCAi1LdX-Qs) |
