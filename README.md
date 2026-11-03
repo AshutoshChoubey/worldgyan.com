@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-08-17 | [4 | TypeScript Interview Series | Symbol Type Explained with Examples | Hindi](https://worldgyan.com/videos/C2nWFqutAXs) | [Watch on YouTube](https://www.youtube.com/watch?v=C2nWFqutAXs) |
+
 | 2025-08-18 | [5 | TypeScript Interview Series | Built-in Symbols & Custom Iterators (Symbol.iterator) | Hindi](https://worldgyan.com/videos/T-fA1t7-YKo) | [Watch on YouTube](https://www.youtube.com/watch?v=T-fA1t7-YKo) |
 
 | 2025-08-30 | [6 | TypeScript Interview Series | Non-Primitive Data Types in TypeScript | Hindi](https://worldgyan.com/videos/JkVqvOzoZjo) | [Watch on YouTube](https://www.youtube.com/watch?v=JkVqvOzoZjo) |
