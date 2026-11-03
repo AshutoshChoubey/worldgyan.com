@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-07-06 | [1 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/N8bIMHBW7K8) | [Watch on YouTube](https://www.youtube.com/watch?v=N8bIMHBW7K8) |
+
 | 2022-07-07 | [2 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/Sa4Idsr7etc) | [Watch on YouTube](https://www.youtube.com/watch?v=Sa4Idsr7etc) |
 
 | 2022-07-09 | [3 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/VW5LcNDTMpw) | [Watch on YouTube](https://www.youtube.com/watch?v=VW5LcNDTMpw) |
