@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-08-15 | [Installation & Common Mac Issues: npm, nvm, zsh | source ~/.bashrcsource: no such file or directory](https://worldgyan.com/videos/lhQG8cgkwIs) | [Watch on YouTube](https://www.youtube.com/watch?v=lhQG8cgkwIs) |
+
 | 2025-08-15 | [Docker vs Virtual Machine Explained | Hindi](https://worldgyan.com/videos/ti7oF-vNinY) | [Watch on YouTube](https://www.youtube.com/watch?v=ti7oF-vNinY) |
 
 | 2025-08-16 | [2 | TypeScript Interview Series | JavaScript Problems Solved by TypeScript | Hindi](https://worldgyan.com/videos/oWYkofDMcaE) | [Watch on YouTube](https://www.youtube.com/watch?v=oWYkofDMcaE) |
