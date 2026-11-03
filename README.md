@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-08 | [14 | TypeScript Interview Series | Utility Types NonNullable & Record in TypeScript | Hindi](https://worldgyan.com/videos/zLpsReXpHHA) | [Watch on YouTube](https://www.youtube.com/watch?v=zLpsReXpHHA) |
+
 | 2025-09-10 | [15 | TypeScript Interview Series | Advanced Types in TypeScript: Mapped Types (Optional & Nullable)](https://worldgyan.com/videos/ApWuhL2b1tM) | [Watch on YouTube](https://www.youtube.com/watch?v=ApWuhL2b1tM) |
 
 | 2025-09-11 | [16 | TypeScript Interview Series | Conditional Types & Template Literal Types | Hindi](https://worldgyan.com/videos/HyfcwnGZmuQ) | [Watch on YouTube](https://www.youtube.com/watch?v=HyfcwnGZmuQ) |
