@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-08-29 | [Angular: From JavaScript Insights to Frontend developer Hindi audio](https://worldgyan.com/videos/WIAUARD1SjE) | [Watch on YouTube](https://www.youtube.com/watch?v=WIAUARD1SjE) |
+
 | 2023-08-30 | [Ep. 0b | Angular Fundamentals: Understanding JavaScript, Browser, & the Need for Angular Hindi audio](https://worldgyan.com/videos/2sZCWkOhlME) | [Watch on YouTube](https://www.youtube.com/watch?v=2sZCWkOhlME) |
 
 | 2023-08-30 | [Ep. 03 | Exploring HTML Basics and Different Tag Types](https://worldgyan.com/videos/mZnOgO8HJHM) | [Watch on YouTube](https://www.youtube.com/watch?v=mZnOgO8HJHM) |
