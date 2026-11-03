@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-15 | [Ep  15  Understanding Angular Pipes Built in and Custom Pipe Operators Explained](https://worldgyan.com/videos/iDgdePFUDkw) | [Watch on YouTube](https://www.youtube.com/watch?v=iDgdePFUDkw) |
+
 | 2023-09-15 | [Ep  17 Ahead of Time AOT and Just in Time JIT Compilation in Angular](https://worldgyan.com/videos/3rTwLwHj7kg) | [Watch on YouTube](https://www.youtube.com/watch?v=3rTwLwHj7kg) |
 
 | 2023-09-16 | [Ep. 16 | Exploring Angular Component Lifecycle in Detail](https://worldgyan.com/videos/eHsvMXS54Po) | [Watch on YouTube](https://www.youtube.com/watch?v=eHsvMXS54Po) |
