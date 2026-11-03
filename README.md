@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-09-10 | [1a | HTML Tutorials |  What is HTML | How HTML Works | How to learn HTML](https://worldgyan.com/videos/Aj4bUzhn6zk) | [Watch on YouTube](https://www.youtube.com/watch?v=Aj4bUzhn6zk) |
+
 | 2022-09-10 | [1b | HTML Tutorials |  HTML element tags and attributes | What is DOM | How html works](https://worldgyan.com/videos/fbYePV0KSUc) | [Watch on YouTube](https://www.youtube.com/watch?v=fbYePV0KSUc) |
 
 | 2022-09-11 | [3 | HTML Tutorials |  HTML Form | HTML input field type | HTML input Attribute | HTML form Attribute](https://worldgyan.com/videos/xAvHFW0MmLk) | [Watch on YouTube](https://www.youtube.com/watch?v=xAvHFW0MmLk) |
