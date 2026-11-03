@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-03 | [Ep. 1 | Getting Started: Installing Angular Framework](https://worldgyan.com/videos/V_ZbBY2-Ts0) | [Watch on YouTube](https://www.youtube.com/watch?v=V_ZbBY2-Ts0) |
+
 | 2023-09-04 | [Ep. 01 | CSS Introduction: Inline, Internal, and External Stylesheets](https://worldgyan.com/videos/1bQMTO_6RQE) | [Watch on YouTube](https://www.youtube.com/watch?v=1bQMTO_6RQE) |
 
 | 2023-09-05 | [Ep. 02 | Angular Course File and Folder Structure](https://worldgyan.com/videos/UtMD4l_mNB0) | [Watch on YouTube](https://www.youtube.com/watch?v=UtMD4l_mNB0) |
