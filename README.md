@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-05 | [11 | TypeScript Interview Series | Generic Class Types in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/x5Wl11rbEro) | [Watch on YouTube](https://www.youtube.com/watch?v=x5Wl11rbEro) |
+
 | 2025-09-06 | [12 | TypeScript Interview Series | Type Alias in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/hqO3qzTAApY) | [Watch on YouTube](https://www.youtube.com/watch?v=hqO3qzTAApY) |
 
 | 2025-09-07 | [13 | TypeScript Interview Series | Utility Types in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/r7htJVe48NI) | [Watch on YouTube](https://www.youtube.com/watch?v=r7htJVe48NI) |
