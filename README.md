@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-08-26 | [Ep. 01 | Introduction to HTML Fundamentals](https://worldgyan.com/videos/dpjLnbDk_ss) | [Watch on YouTube](https://www.youtube.com/watch?v=dpjLnbDk_ss) |
+
 | 2023-08-28 | [Ep. 2 | HTML Basics: Exploring Element Tags, Attributes, and the DOM](https://worldgyan.com/videos/xP12foCHgng) | [Watch on YouTube](https://www.youtube.com/watch?v=xP12foCHgng) |
 
 | 2023-08-29 | [Angular: From JavaScript Insights to Frontend developer Hindi audio](https://worldgyan.com/videos/WIAUARD1SjE) | [Watch on YouTube](https://www.youtube.com/watch?v=WIAUARD1SjE) |
