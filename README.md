@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-05 | [Ep  04  Angular Navigating the Project Flow for Seamless Development](https://worldgyan.com/videos/YS1R2RT5Qpw) | [Watch on YouTube](https://www.youtube.com/watch?v=YS1R2RT5Qpw) |
+
 | 2023-09-06 | [Restarting Garage Application on Your Local System - Quick and Easy Guide Hindi](https://worldgyan.com/videos/1Lc3VDlfxOE) | [Watch on YouTube](https://www.youtube.com/watch?v=1Lc3VDlfxOE) |
 
 | 2023-09-06 | [The Complete Shopify Development Guide for developer](https://worldgyan.com/videos/eZTo2SOrWJo) | [Watch on YouTube](https://www.youtube.com/watch?v=eZTo2SOrWJo) |
