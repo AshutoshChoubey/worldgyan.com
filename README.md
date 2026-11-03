@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-07-09 | [3 | Data Structures and Algorithms | Prepare for Top product based Companies | Competitive Coding](https://worldgyan.com/videos/VW5LcNDTMpw) | [Watch on YouTube](https://www.youtube.com/watch?v=VW5LcNDTMpw) |
+
 | 2022-07-11 | [4 | Data Structures and Algorithms | Rotate the elements in an array antilock wise in JavaScript](https://worldgyan.com/videos/nfyOdM0YhtY) | [Watch on YouTube](https://www.youtube.com/watch?v=nfyOdM0YhtY) |
 
 | 2022-07-12 | [1 | Data Structures and Algorithms English | Prepare for Top product Companies | Competitive Coding](https://worldgyan.com/videos/gSp13d3pZj8) | [Watch on YouTube](https://www.youtube.com/watch?v=gSp13d3pZj8) |
