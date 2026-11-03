@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-11 | [Ep. 10 | Angular Input-Output Decorator](https://worldgyan.com/videos/j58YGx06fXI) | [Watch on YouTube](https://www.youtube.com/watch?v=j58YGx06fXI) |
+
 | 2023-09-12 | [Ep. 12 | Standalone Components in Angular in details](https://worldgyan.com/videos/RCAi1LdX-Qs) | [Watch on YouTube](https://www.youtube.com/watch?v=RCAi1LdX-Qs) |
 
 | 2023-09-13 | [Ep.13 Angular Structural Directives:  - *ngIf and *ngFor Explained](https://worldgyan.com/videos/TVHvtk10q8M) | [Watch on YouTube](https://www.youtube.com/watch?v=TVHvtk10q8M) |
