@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-14 | [Ep.14 Angular Directives: Structural Directives and Creating Custom Directives](https://worldgyan.com/videos/8qOcojbK_gU) | [Watch on YouTube](https://www.youtube.com/watch?v=8qOcojbK_gU) |
+
 | 2023-09-15 | [Ep. 18 | Angular Route Properties: A Comprehensive Guide](https://worldgyan.com/videos/g_3rRzrmgi0) | [Watch on YouTube](https://www.youtube.com/watch?v=g_3rRzrmgi0) |
 
 | 2023-09-15 | [Ep  15  Understanding Angular Pipes Built in and Custom Pipe Operators Explained](https://worldgyan.com/videos/iDgdePFUDkw) | [Watch on YouTube](https://www.youtube.com/watch?v=iDgdePFUDkw) |
