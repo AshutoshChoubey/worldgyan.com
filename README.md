@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-05 | [Ep. 02 | Angular Course File and Folder Structure](https://worldgyan.com/videos/UtMD4l_mNB0) | [Watch on YouTube](https://www.youtube.com/watch?v=UtMD4l_mNB0) |
+
 | 2023-09-05 | [Ep. 09 | Angular Data Binding Mastery: Boost Your Web Development Skills](https://worldgyan.com/videos/XU3Ml2kSMRM) | [Watch on YouTube](https://www.youtube.com/watch?v=XU3Ml2kSMRM) |
 
 | 2023-09-05 | [Ep  04  Angular Navigating the Project Flow for Seamless Development](https://worldgyan.com/videos/YS1R2RT5Qpw) | [Watch on YouTube](https://www.youtube.com/watch?v=YS1R2RT5Qpw) |
