@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-08-22 | [Angular vs React: Choosing the Perfect JavaScript Framework | Full Comparison! 🚀](https://worldgyan.com/videos/-kLYipWqERY) | [Watch on YouTube](https://www.youtube.com/watch?v=-kLYipWqERY) |
+
 | 2023-08-26 | [Ep. 01 | Introduction to HTML Fundamentals](https://worldgyan.com/videos/dpjLnbDk_ss) | [Watch on YouTube](https://www.youtube.com/watch?v=dpjLnbDk_ss) |
 
 | 2023-08-28 | [Ep. 2 | HTML Basics: Exploring Element Tags, Attributes, and the DOM](https://worldgyan.com/videos/xP12foCHgng) | [Watch on YouTube](https://www.youtube.com/watch?v=xP12foCHgng) |
