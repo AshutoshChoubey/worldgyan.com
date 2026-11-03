@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-15 | [18 | TypeScript Interview Series | Unknown, Never & Void Types Explained | Hindi](https://worldgyan.com/videos/PrFaO8qkGHE) | [Watch on YouTube](https://www.youtube.com/watch?v=PrFaO8qkGHE) |
+
 | 2025-09-17 | [19 | TypeScript Series | TypeScript Best Practices: Writing Clean, Safe, and Maintainable Code](https://worldgyan.com/videos/j0-WEcSs1Cg) | [Watch on YouTube](https://www.youtube.com/watch?v=j0-WEcSs1Cg) |
 
 | 2025-09-19 | [1 | RxJS & Angular Interview Series | Why Use Higher Order Observables? Explained | Hindi](https://worldgyan.com/videos/CRlrlrm1bQA) | [Watch on YouTube](https://www.youtube.com/watch?v=CRlrlrm1bQA) |
