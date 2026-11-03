@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-15 | [Ep  17 Ahead of Time AOT and Just in Time JIT Compilation in Angular](https://worldgyan.com/videos/3rTwLwHj7kg) | [Watch on YouTube](https://www.youtube.com/watch?v=3rTwLwHj7kg) |
+
 | 2023-09-16 | [Ep. 16 | Exploring Angular Component Lifecycle in Detail](https://worldgyan.com/videos/eHsvMXS54Po) | [Watch on YouTube](https://www.youtube.com/watch?v=eHsvMXS54Po) |
 
 | 2023-09-17 | [Ep. 19 | Exploring Angular Router Outlet Properties](https://worldgyan.com/videos/skLNdYq7pUE) | [Watch on YouTube](https://www.youtube.com/watch?v=skLNdYq7pUE) |
