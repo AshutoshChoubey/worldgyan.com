@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-17 | [19 | TypeScript Series | TypeScript Best Practices: Writing Clean, Safe, and Maintainable Code](https://worldgyan.com/videos/j0-WEcSs1Cg) | [Watch on YouTube](https://www.youtube.com/watch?v=j0-WEcSs1Cg) |
+
 | 2025-09-19 | [1 | RxJS & Angular Interview Series | Why Use Higher Order Observables? Explained | Hindi](https://worldgyan.com/videos/CRlrlrm1bQA) | [Watch on YouTube](https://www.youtube.com/watch?v=CRlrlrm1bQA) |
 
 | 2025-09-20 | [2 | RxJS & Angular Interview Series | switchMap vs mergeMap vs concatMap vs exhaustMap | Hindi](https://worldgyan.com/videos/6inG95LzA0I) | [Watch on YouTube](https://www.youtube.com/watch?v=6inG95LzA0I) |
