@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-09-13 | [Ep.13 Angular Structural Directives:  - *ngIf and *ngFor Explained](https://worldgyan.com/videos/TVHvtk10q8M) | [Watch on YouTube](https://www.youtube.com/watch?v=TVHvtk10q8M) |
+
 | 2023-09-13 | [Ep. 11 | Component Styling and View Encapsulation in Angular | Angular 16](https://worldgyan.com/videos/UTXoIqyR3f4) | [Watch on YouTube](https://www.youtube.com/watch?v=UTXoIqyR3f4) |
 
 | 2023-09-14 | [Ep.14 Angular Directives: Structural Directives and Creating Custom Directives](https://worldgyan.com/videos/8qOcojbK_gU) | [Watch on YouTube](https://www.youtube.com/watch?v=8qOcojbK_gU) |
