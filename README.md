@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2023-08-30 | [Ep. 03 | Exploring HTML Basics and Different Tag Types](https://worldgyan.com/videos/mZnOgO8HJHM) | [Watch on YouTube](https://www.youtube.com/watch?v=mZnOgO8HJHM) |
+
 | 2023-09-01 | [Ep. 04 | Exploring HTML Forms, Input Fields, and Attributes](https://worldgyan.com/videos/uHApuag1kBI) | [Watch on YouTube](https://www.youtube.com/watch?v=uHApuag1kBI) |
 
 | 2023-09-02 | [Setting Up Garage Management Software on Your Local System - Step-by-Step Guide Hindi](https://worldgyan.com/videos/B0H-QhKv6Ak) | [Watch on YouTube](https://www.youtube.com/watch?v=B0H-QhKv6Ak) |
