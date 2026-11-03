@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-09-11 | [3 | HTML Tutorials |  HTML Form | HTML input field type | HTML input Attribute | HTML form Attribute](https://worldgyan.com/videos/xAvHFW0MmLk) | [Watch on YouTube](https://www.youtube.com/watch?v=xAvHFW0MmLk) |
+
 | 2023-08-22 | [Angular vs React: Choosing the Perfect JavaScript Framework | Full Comparison! 🚀](https://worldgyan.com/videos/-kLYipWqERY) | [Watch on YouTube](https://www.youtube.com/watch?v=-kLYipWqERY) |
 
 | 2023-08-26 | [Ep. 01 | Introduction to HTML Fundamentals](https://worldgyan.com/videos/dpjLnbDk_ss) | [Watch on YouTube](https://www.youtube.com/watch?v=dpjLnbDk_ss) |
