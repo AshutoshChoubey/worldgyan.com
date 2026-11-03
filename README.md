@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-07-12 | [1 | Data Structures and Algorithms English | Prepare for Top product Companies | Competitive Coding](https://worldgyan.com/videos/gSp13d3pZj8) | [Watch on YouTube](https://www.youtube.com/watch?v=gSp13d3pZj8) |
+
 | 2022-07-13 | [2  | Data Structures and Algorithms English | Array List | Reverse Array | Rotate Array](https://worldgyan.com/videos/HIABwF3nCtw) | [Watch on YouTube](https://www.youtube.com/watch?v=HIABwF3nCtw) |
 
 | 2022-07-14 | [2 |  Save Income Tax In India | 80C Exemption | Investments that qualify for deductions  Section 80C](https://worldgyan.com/videos/MBMP6WiRV4o) | [Watch on YouTube](https://www.youtube.com/watch?v=MBMP6WiRV4o) |
