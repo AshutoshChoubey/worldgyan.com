@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2025-09-01 | [7 | TypeScript Interview Series | Enum in TypeScript Explained with Examples | Hindi](https://worldgyan.com/videos/4fWxk1zi9hk) | [Watch on YouTube](https://www.youtube.com/watch?v=4fWxk1zi9hk) |
+
 | 2025-09-02 | [8 | TypeScript Interview Series | Union Types & Interface Types in TypeScript | Hindi](https://worldgyan.com/videos/qA222vegbu8) | [Watch on YouTube](https://www.youtube.com/watch?v=qA222vegbu8) |
 
 | 2025-09-03 | [9 | TypeScript Interview Series | Inheritance in interface in typescript Explained | Hindi](https://worldgyan.com/videos/jbxB7YJc6Jg) | [Watch on YouTube](https://www.youtube.com/watch?v=jbxB7YJc6Jg) |
