@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-06-07 | [5 | Angular Unit Testing for the component | TestBed.configureTestingModule](https://worldgyan.com/videos/EzRTZ9uqp3Y) | [Watch on YouTube](https://www.youtube.com/watch?v=EzRTZ9uqp3Y) |
+
 | 2022-06-07 | [9 | Angular Unit Testing for the component | Test Reactive Submit form](https://worldgyan.com/videos/jVSBaJkj1ys) | [Watch on YouTube](https://www.youtube.com/watch?v=jVSBaJkj1ys) |
 
 | 2022-06-09 | [6 | Angular Unit Testing for the component | TestBed.createComponent | component Fixture](https://worldgyan.com/videos/IetP4KQGT_g) | [Watch on YouTube](https://www.youtube.com/watch?v=IetP4KQGT_g) |
