@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-25 | [7 | Advance Angular  Tutorials English |  debounceTime - Learn RxJS | distinctuntilchanged rxjs](https://worldgyan.com/videos/aDHjhB60j5Q) | [Watch on YouTube](https://www.youtube.com/watch?v=aDHjhB60j5Q) |
+
 | 2022-04-28 | [29 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/MemnHpWTfBU) | [Watch on YouTube](https://www.youtube.com/watch?v=MemnHpWTfBU) |
 
 | 2022-04-30 | [4 | Shopify Guide for developer for Beginners in Hindi | How to use shopify API cart.js projuct.js](https://worldgyan.com/videos/zoEo35ZtvrI) | [Watch on YouTube](https://www.youtube.com/watch?v=zoEo35ZtvrI) |
