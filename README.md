@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-24 | [2 | Angular Unit Testing with Jasmine & Karma| Understand Jasmine | Why unit testing?](https://worldgyan.com/videos/r7Ji5MC06is) | [Watch on YouTube](https://www.youtube.com/watch?v=r7Ji5MC06is) |
+
 | 2022-04-25 | [7 | Advance Angular  Tutorials English |  debounceTime - Learn RxJS | distinctuntilchanged rxjs](https://worldgyan.com/videos/aDHjhB60j5Q) | [Watch on YouTube](https://www.youtube.com/watch?v=aDHjhB60j5Q) |
 
 | 2022-04-28 | [29 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/MemnHpWTfBU) | [Watch on YouTube](https://www.youtube.com/watch?v=MemnHpWTfBU) |
