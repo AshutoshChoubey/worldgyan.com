@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-24 | [33 | Complete Angular NgRx Actions, NGRX Reducers and NGRX Effects in Hindi | NgRx CRUD in One Video](https://worldgyan.com/videos/NpEr7CGqux4) | [Watch on YouTube](https://www.youtube.com/watch?v=NpEr7CGqux4) |
+
 | 2022-05-26 | [Advance Angular Training | Angular Live Classes | How to become expert in angular | Angular 13](https://worldgyan.com/videos/hWojWE532KI) | [Watch on YouTube](https://www.youtube.com/watch?v=hWojWE532KI) |
 
 | 2022-05-26 | [22 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/DTyOFsWjqVE) | [Watch on YouTube](https://www.youtube.com/watch?v=DTyOFsWjqVE) |
