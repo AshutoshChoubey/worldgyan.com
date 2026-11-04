@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-21 | [1 | Angular Unit Testing with Jasmine & Karma | karma.conf.js | test.ts | Why unit testing?](https://worldgyan.com/videos/xBSbDMV6Qpk) | [Watch on YouTube](https://www.youtube.com/watch?v=xBSbDMV6Qpk) |
+
 | 2022-04-22 | [29 | Understanding RxJS Operators: forkJoin, and zip | Advance Angular  Tutorials | forkjoin vs zip](https://worldgyan.com/videos/07OrCN4uJz0) | [Watch on YouTube](https://www.youtube.com/watch?v=07OrCN4uJz0) |
 
 | 2022-04-22 | [6 | Subject - RxJS | BehaviorSubject, ReplaySubject and AsyncSubject | Subject - RxJS in English](https://worldgyan.com/videos/qwkcNCTrGrI) | [Watch on YouTube](https://www.youtube.com/watch?v=qwkcNCTrGrI) |
