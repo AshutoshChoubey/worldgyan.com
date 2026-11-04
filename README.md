@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-30 | [1 | Save Income Tax for the professionals In India | HRA Exemption in Hindi](https://worldgyan.com/videos/qN8Tp_H_Ax0) | [Watch on YouTube](https://www.youtube.com/watch?v=qN8Tp_H_Ax0) |
+
 | 2022-05-31 | [2 | Angular Unit Testing with Jasmine & Karma | Understand Jasmine | Why unit testing?](https://worldgyan.com/videos/p5M8Y0RYMKA) | [Watch on YouTube](https://www.youtube.com/watch?v=p5M8Y0RYMKA) |
 
 | 2022-06-02 | [7 | Angular Unit Testing for the component | Test Reactive from HTML to Components](https://worldgyan.com/videos/-oTxu6y3mP0) | [Watch on YouTube](https://www.youtube.com/watch?v=-oTxu6y3mP0) |
