@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-14 | [31 | Angular Unit Testing | Component setup for unit testing | Strategy for the Angular unit testing](https://worldgyan.com/videos/CBNFeyF0trk) | [Watch on YouTube](https://www.youtube.com/watch?v=CBNFeyF0trk) |
+
 | 2022-05-24 | [33 | Complete Angular NgRx Actions, NGRX Reducers and NGRX Effects in Hindi | NgRx CRUD in One Video](https://worldgyan.com/videos/NpEr7CGqux4) | [Watch on YouTube](https://www.youtube.com/watch?v=NpEr7CGqux4) |
 
 | 2022-05-26 | [Advance Angular Training | Angular Live Classes | How to become expert in angular | Angular 13](https://worldgyan.com/videos/hWojWE532KI) | [Watch on YouTube](https://www.youtube.com/watch?v=hWojWE532KI) |
