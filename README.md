@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-20 | [8 | Understanding RxJS Operators: forkJoin, and zip | Advance Angular  Tutorials | forkjoin vs zip](https://worldgyan.com/videos/NqaIocPooPU) | [Watch on YouTube](https://www.youtube.com/watch?v=NqaIocPooPU) |
+
 | 2022-04-20 | [5 RxJS English | Advance Angular 13 | switchmap vs mergemap vs concatmap vs exhaustmap](https://worldgyan.com/videos/TezvAHVHQ5c) | [Watch on YouTube](https://www.youtube.com/watch?v=TezvAHVHQ5c) |
 
 | 2022-04-20 | [30 | Angular Unit Testing with Jasmine & Karma | karma.conf.js | test.ts | Why unit testing ?](https://worldgyan.com/videos/t2QbpUJwpUs) | [Watch on YouTube](https://www.youtube.com/watch?v=t2QbpUJwpUs) |
