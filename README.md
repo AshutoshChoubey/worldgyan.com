@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-24 | [10 Useful VS Code Extensions For Front-End Developers | Useful VS Code Extensions List in English](https://worldgyan.com/videos/24fGKBNw4dY) | [Watch on YouTube](https://www.youtube.com/watch?v=24fGKBNw4dY) |
+
 | 2022-04-24 | [2 RxJS English | RxJS Operators |  Pipeable Operators | Creation operator in rxjs | RxJS Operator](https://worldgyan.com/videos/dP9gzwRPbJw) | [Watch on YouTube](https://www.youtube.com/watch?v=dP9gzwRPbJw) |
 
 | 2022-04-24 | [2 | Angular Unit Testing with Jasmine & Karma| Understand Jasmine | Why unit testing?](https://worldgyan.com/videos/r7Ji5MC06is) | [Watch on YouTube](https://www.youtube.com/watch?v=r7Ji5MC06is) |
