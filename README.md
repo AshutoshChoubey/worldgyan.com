@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-20 | [30 | Angular Unit Testing with Jasmine & Karma | karma.conf.js | test.ts | Why unit testing ?](https://worldgyan.com/videos/t2QbpUJwpUs) | [Watch on YouTube](https://www.youtube.com/watch?v=t2QbpUJwpUs) |
+
 | 2022-04-21 | [27 | Subject - RxJS | BehaviorSubject, ReplaySubject and AsyncSubject | Subject - RxJS in English](https://worldgyan.com/videos/jI6eUlQDFss) | [Watch on YouTube](https://www.youtube.com/watch?v=jI6eUlQDFss) |
 
 | 2022-04-21 | [1 | Angular Unit Testing with Jasmine & Karma | karma.conf.js | test.ts | Why unit testing?](https://worldgyan.com/videos/xBSbDMV6Qpk) | [Watch on YouTube](https://www.youtube.com/watch?v=xBSbDMV6Qpk) |
