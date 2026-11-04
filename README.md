@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-22 | [6 | Subject - RxJS | BehaviorSubject, ReplaySubject and AsyncSubject | Subject - RxJS in English](https://worldgyan.com/videos/qwkcNCTrGrI) | [Watch on YouTube](https://www.youtube.com/watch?v=qwkcNCTrGrI) |
+
 | 2022-04-23 | [Why is unit testing required? | Advantage of unit test case  | What makes a good test?](https://worldgyan.com/videos/rFnazeHPgDU) | [Watch on YouTube](https://www.youtube.com/watch?v=rFnazeHPgDU) |
 
 | 2022-04-23 | [28 | Advance Angular  Tutorials in Hindi |  debounceTime - Learn RxJS | distinctuntilchanged rxjs](https://worldgyan.com/videos/ifM-Ni4Z4ho) | [Watch on YouTube](https://www.youtube.com/watch?v=ifM-Ni4Z4ho) |
