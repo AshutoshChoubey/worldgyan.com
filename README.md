@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-18 | [4 RxJS English | Advance Angular 13 | RxJS : How to get output from Outer & Inner Observable](https://worldgyan.com/videos/hbQOiXLYxcc) | [Watch on YouTube](https://www.youtube.com/watch?v=hbQOiXLYxcc) |
+
 | 2022-04-20 | [26 Higher-order Observables | switchmap mergemap concatmap exhaustmap | Pipeable & Creation operator](https://worldgyan.com/videos/Khbg-j4qqyA) | [Watch on YouTube](https://www.youtube.com/watch?v=Khbg-j4qqyA) |
 
 | 2022-04-20 | [8 | Understanding RxJS Operators: forkJoin, and zip | Advance Angular  Tutorials | forkjoin vs zip](https://worldgyan.com/videos/NqaIocPooPU) | [Watch on YouTube](https://www.youtube.com/watch?v=NqaIocPooPU) |
