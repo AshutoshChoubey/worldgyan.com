@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-16 | [25 | Advance Angular 13 Tutorials | Higher-order Observables | RxJS in Angular in Hindi](https://worldgyan.com/videos/G9Ff9dzDB4Q) | [Watch on YouTube](https://www.youtube.com/watch?v=G9Ff9dzDB4Q) |
+
 | 2022-04-16 | [3 RxJS English | Advance Angular 13 Tutorials | Higher-order Observables | RxJS in Angular](https://worldgyan.com/videos/8lAshoofGfg) | [Watch on YouTube](https://www.youtube.com/watch?v=8lAshoofGfg) |
 
 | 2022-04-18 | [1 RxJS English | Reactive Extensions for JavaScript | Observable and RxJS in Angular Explained?](https://worldgyan.com/videos/-bRdZKhvtV8) | [Watch on YouTube](https://www.youtube.com/watch?v=-bRdZKhvtV8) |
