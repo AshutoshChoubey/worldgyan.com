@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-18 | [1 RxJS English | Reactive Extensions for JavaScript | Observable and RxJS in Angular Explained?](https://worldgyan.com/videos/-bRdZKhvtV8) | [Watch on YouTube](https://www.youtube.com/watch?v=-bRdZKhvtV8) |
+
 | 2022-04-18 | [26 | Higher-order Observables | RxJS Operators   | Pipeable Operators | Creation operator](https://worldgyan.com/videos/CV-r9ZqCMRw) | [Watch on YouTube](https://www.youtube.com/watch?v=CV-r9ZqCMRw) |
 
 | 2022-04-18 | [4 RxJS English | Advance Angular 13 | RxJS : How to get output from Outer & Inner Observable](https://worldgyan.com/videos/hbQOiXLYxcc) | [Watch on YouTube](https://www.youtube.com/watch?v=hbQOiXLYxcc) |
