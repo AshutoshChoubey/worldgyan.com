@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-30 | [31 p 2 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/y4bAE-MaJOI) | [Watch on YouTube](https://www.youtube.com/watch?v=y4bAE-MaJOI) |
+
 | 2022-05-30 | [1 | Save Income Tax for the professionals In India | HRA Exemption in Hindi](https://worldgyan.com/videos/qN8Tp_H_Ax0) | [Watch on YouTube](https://www.youtube.com/watch?v=qN8Tp_H_Ax0) |
 
 | 2022-05-31 | [2 | Angular Unit Testing with Jasmine & Karma | Understand Jasmine | Why unit testing?](https://worldgyan.com/videos/p5M8Y0RYMKA) | [Watch on YouTube](https://www.youtube.com/watch?v=p5M8Y0RYMKA) |
