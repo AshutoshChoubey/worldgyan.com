@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-30 | [4 | Shopify Guide for developer for Beginners in Hindi | How to use shopify API cart.js projuct.js](https://worldgyan.com/videos/zoEo35ZtvrI) | [Watch on YouTube](https://www.youtube.com/watch?v=zoEo35ZtvrI) |
+
 | 2022-05-14 | [32 | ConfigureTestingModule |  compileComponents | createComponent | SpyObj | fixture.debugElement](https://worldgyan.com/videos/9DtFxPJTJVk) | [Watch on YouTube](https://www.youtube.com/watch?v=9DtFxPJTJVk) |
 
 | 2022-05-14 | [31 | Angular Unit Testing | Component setup for unit testing | Strategy for the Angular unit testing](https://worldgyan.com/videos/CBNFeyF0trk) | [Watch on YouTube](https://www.youtube.com/watch?v=CBNFeyF0trk) |
