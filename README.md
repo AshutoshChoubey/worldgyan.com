@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-18 | [26 | Higher-order Observables | RxJS Operators   | Pipeable Operators | Creation operator](https://worldgyan.com/videos/CV-r9ZqCMRw) | [Watch on YouTube](https://www.youtube.com/watch?v=CV-r9ZqCMRw) |
+
 | 2022-04-18 | [4 RxJS English | Advance Angular 13 | RxJS : How to get output from Outer & Inner Observable](https://worldgyan.com/videos/hbQOiXLYxcc) | [Watch on YouTube](https://www.youtube.com/watch?v=hbQOiXLYxcc) |
 
 | 2022-04-20 | [26 Higher-order Observables | switchmap mergemap concatmap exhaustmap | Pipeable & Creation operator](https://worldgyan.com/videos/Khbg-j4qqyA) | [Watch on YouTube](https://www.youtube.com/watch?v=Khbg-j4qqyA) |
