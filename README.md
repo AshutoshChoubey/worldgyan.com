@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-14 | [32 | ConfigureTestingModule |  compileComponents | createComponent | SpyObj | fixture.debugElement](https://worldgyan.com/videos/9DtFxPJTJVk) | [Watch on YouTube](https://www.youtube.com/watch?v=9DtFxPJTJVk) |
+
 | 2022-05-14 | [31 | Angular Unit Testing | Component setup for unit testing | Strategy for the Angular unit testing](https://worldgyan.com/videos/CBNFeyF0trk) | [Watch on YouTube](https://www.youtube.com/watch?v=CBNFeyF0trk) |
 
 | 2022-05-24 | [33 | Complete Angular NgRx Actions, NGRX Reducers and NGRX Effects in Hindi | NgRx CRUD in One Video](https://worldgyan.com/videos/NpEr7CGqux4) | [Watch on YouTube](https://www.youtube.com/watch?v=NpEr7CGqux4) |
