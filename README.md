@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-05-26 | [28 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/qgVzNmKhMeA) | [Watch on YouTube](https://www.youtube.com/watch?v=qgVzNmKhMeA) |
+
 | 2022-05-28 | [30 | JavaScript Interview Questions | Tricky question | prepare for JavaScript interviews](https://worldgyan.com/videos/HqTo5vI33g0) | [Watch on YouTube](https://www.youtube.com/watch?v=HqTo5vI33g0) |
 
 | 2022-05-29 | [3 | Angular Unit Testing for the component | component & strategy  setup for unit testing](https://worldgyan.com/videos/beky_ICxz_0) | [Watch on YouTube](https://www.youtube.com/watch?v=beky_ICxz_0) |
