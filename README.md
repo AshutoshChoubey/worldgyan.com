@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-04 | [5 | Shopify Guide for developer for Beginners in Hindi | Shopify theme using theme kit on your local](https://worldgyan.com/videos/0UoDmHl8z3I) | [Watch on YouTube](https://www.youtube.com/watch?v=0UoDmHl8z3I) |
+
 | 2022-04-05 | [6 | Shopify Guide for developer for Beginners in Hindi | How to use google pixel or Facebook pixel](https://worldgyan.com/videos/ByS3K0NLnPA) | [Watch on YouTube](https://www.youtube.com/watch?v=ByS3K0NLnPA) |
 
 | 2022-04-05 | [How to change username and hostname for git bash on Windows? | Gitbash change default user@hostname](https://worldgyan.com/videos/y2I4ckldxng) | [Watch on YouTube](https://www.youtube.com/watch?v=y2I4ckldxng) |
