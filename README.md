@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-08 | [24 | RxJS in Angular in Hindi | Reactive Extensions for JavaScript | Observable and RxJS in Angular?](https://worldgyan.com/videos/G35k4E2g3HQ) | [Watch on YouTube](https://www.youtube.com/watch?v=G35k4E2g3HQ) |
+
 | 2022-04-08 | [9 | Shopify Guide for developer for Beginners in Hindi | shopify Webhooks configuration | webhooks](https://worldgyan.com/videos/VSzNFrNtzUA) | [Watch on YouTube](https://www.youtube.com/watch?v=VSzNFrNtzUA) |
 
 | 2022-04-08 | [Useful VS Code Extensions For Web Development in English | VS Code Extensions to Boost Productivity](https://worldgyan.com/videos/bIB7e8n855s) | [Watch on YouTube](https://www.youtube.com/watch?v=bIB7e8n855s) |
