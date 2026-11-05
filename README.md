@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-05 | [6 | Shopify Guide for developer for Beginners in Hindi | How to use google pixel or Facebook pixel](https://worldgyan.com/videos/ByS3K0NLnPA) | [Watch on YouTube](https://www.youtube.com/watch?v=ByS3K0NLnPA) |
+
 | 2022-04-05 | [How to change username and hostname for git bash on Windows? | Gitbash change default user@hostname](https://worldgyan.com/videos/y2I4ckldxng) | [Watch on YouTube](https://www.youtube.com/watch?v=y2I4ckldxng) |
 
 | 2022-04-06 | [7 | Shopify Guide for developer for Beginners Hindi | shopify settings | configure shopify checkout](https://worldgyan.com/videos/0c1EWmnz31o) | [Watch on YouTube](https://www.youtube.com/watch?v=0c1EWmnz31o) |
