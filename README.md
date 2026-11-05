@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-05 | [How to change username and hostname for git bash on Windows? | Gitbash change default user@hostname](https://worldgyan.com/videos/y2I4ckldxng) | [Watch on YouTube](https://www.youtube.com/watch?v=y2I4ckldxng) |
+
 | 2022-04-06 | [7 | Shopify Guide for developer for Beginners Hindi | shopify settings | configure shopify checkout](https://worldgyan.com/videos/0c1EWmnz31o) | [Watch on YouTube](https://www.youtube.com/watch?v=0c1EWmnz31o) |
 
 | 2022-04-07 | [8 | Shopify Guide for developer for Beginners in Hindi | Notification  | domain | Sales channels](https://worldgyan.com/videos/ub7iNQs1Uq4) | [Watch on YouTube](https://www.youtube.com/watch?v=ub7iNQs1Uq4) |
