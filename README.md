@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-07 | [8 | Shopify Guide for developer for Beginners in Hindi | Notification  | domain | Sales channels](https://worldgyan.com/videos/ub7iNQs1Uq4) | [Watch on YouTube](https://www.youtube.com/watch?v=ub7iNQs1Uq4) |
+
 | 2022-04-08 | [24 | RxJS in Angular in Hindi | Reactive Extensions for JavaScript | Observable and RxJS in Angular?](https://worldgyan.com/videos/G35k4E2g3HQ) | [Watch on YouTube](https://www.youtube.com/watch?v=G35k4E2g3HQ) |
 
 | 2022-04-08 | [9 | Shopify Guide for developer for Beginners in Hindi | shopify Webhooks configuration | webhooks](https://worldgyan.com/videos/VSzNFrNtzUA) | [Watch on YouTube](https://www.youtube.com/watch?v=VSzNFrNtzUA) |
