@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-03 | [Change git bash username and password in Windows | Gitbash change default user@hostname](https://worldgyan.com/videos/5BJWt-M6oNg) | [Watch on YouTube](https://www.youtube.com/watch?v=5BJWt-M6oNg) |
+
 | 2022-04-03 | [Useful VS Code Extensions For Developer in 2022 in Hindi | VS Code Extensions to Boost Productivity](https://worldgyan.com/videos/VUJ0acvr1to) | [Watch on YouTube](https://www.youtube.com/watch?v=VUJ0acvr1to) |
 
 | 2022-04-04 | [5 | Shopify Guide for developer for Beginners in Hindi | Shopify theme using theme kit on your local](https://worldgyan.com/videos/0UoDmHl8z3I) | [Watch on YouTube](https://www.youtube.com/watch?v=0UoDmHl8z3I) |
