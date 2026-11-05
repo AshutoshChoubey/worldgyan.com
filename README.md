@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-24 | [22 | Resolve Guard | Resolve guard in angular in Hindi  | What is resolve Route guard?](https://worldgyan.com/videos/Mih3d8RRA1w) | [Watch on YouTube](https://www.youtube.com/watch?v=Mih3d8RRA1w) |
+
 | 2022-03-25 | [Angular guard | Resolve guard in angular |  Resolve - Angular | What is resolve Route guard?](https://worldgyan.com/videos/n3D1MZB5usE) | [Watch on YouTube](https://www.youtube.com/watch?v=n3D1MZB5usE) |
 
 | 2022-03-28 | [Windows 7 Ultimate x64 - SP1 (Fully Updated) 7 Service Pack 1 (SP1) 2022 latest Updates ISO file](https://worldgyan.com/videos/yY2m02YnrhA) | [Watch on YouTube](https://www.youtube.com/watch?v=yY2m02YnrhA) |
