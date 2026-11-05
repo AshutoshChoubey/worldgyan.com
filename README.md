@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-28 | [Buyback correctly in Zerodha Kite | Buyback with Zerodha Kite Status | share still showing in Demat](https://worldgyan.com/videos/JzKmCzcXChw) | [Watch on YouTube](https://www.youtube.com/watch?v=JzKmCzcXChw) |
+
 | 2022-03-29 | [Angular pipe part 1 | Advance Angular 13 in English | Async pipes |  why and how to use pipe](https://worldgyan.com/videos/THHely4Li9c) | [Watch on YouTube](https://www.youtube.com/watch?v=THHely4Li9c) |
 
 | 2022-03-29 | [Angular pipe part 2 | Advance Angular 13 Tutorials in English | Async pipes | Transforming Data](https://worldgyan.com/videos/eYpmZDkJJM0) | [Watch on YouTube](https://www.youtube.com/watch?v=eYpmZDkJJM0) |
