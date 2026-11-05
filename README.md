@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-04-08 | [9 | Shopify Guide for developer for Beginners in Hindi | shopify Webhooks configuration | webhooks](https://worldgyan.com/videos/VSzNFrNtzUA) | [Watch on YouTube](https://www.youtube.com/watch?v=VSzNFrNtzUA) |
+
 | 2022-04-08 | [Useful VS Code Extensions For Web Development in English | VS Code Extensions to Boost Productivity](https://worldgyan.com/videos/bIB7e8n855s) | [Watch on YouTube](https://www.youtube.com/watch?v=bIB7e8n855s) |
 
 | 2022-04-11 | [Realised P&L | Charges & taxes| Other credits debits | Net realised P&L | Unrealised P&L in Zerodha](https://worldgyan.com/videos/gmaIkdSxFFo) | [Watch on YouTube](https://www.youtube.com/watch?v=gmaIkdSxFFo) |
