@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-28 | [Advance Angular 13 Tutorials | Angular pip | Transforming Data Using Pipes - Angular](https://worldgyan.com/videos/zNHS-1BO8FU) | [Watch on YouTube](https://www.youtube.com/watch?v=zNHS-1BO8FU) |
+
 | 2022-03-28 | [27 | JavaScript Promise | What is Javascript Promise? |  How to use Promises in JS | Why use promise](https://worldgyan.com/videos/Y2jYw7vtaBY) | [Watch on YouTube](https://www.youtube.com/watch?v=Y2jYw7vtaBY) |
 
 | 2022-03-28 | [Buyback correctly in Zerodha Kite | Buyback with Zerodha Kite Status | share still showing in Demat](https://worldgyan.com/videos/JzKmCzcXChw) | [Watch on YouTube](https://www.youtube.com/watch?v=JzKmCzcXChw) |
