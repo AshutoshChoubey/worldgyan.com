@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-31 | [1 | Shopify Guide for developer for Beginners in Hindi 2022 | How and why Use Shopify](https://worldgyan.com/videos/pSEVxD0IcUY) | [Watch on YouTube](https://www.youtube.com/watch?v=pSEVxD0IcUY) |
+
 | 2022-04-01 | [2 | Shopify Guide for developer for Beginners in Hindi 2022 | How to setup Shopify Account](https://worldgyan.com/videos/1c_Ibv_L2BQ) | [Watch on YouTube](https://www.youtube.com/watch?v=1c_Ibv_L2BQ) |
 
 | 2022-04-02 | [3 | Shopify Guide for developer for Beginners in Hindi | How to configure Shopify theme](https://worldgyan.com/videos/J4hjz1_O4cY) | [Watch on YouTube](https://www.youtube.com/watch?v=J4hjz1_O4cY) |
