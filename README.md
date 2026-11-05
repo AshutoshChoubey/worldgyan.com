@@ -3,6 +3,8 @@
 | Date | Title | Watch |
 | :--- | :--- | :--- |
 <!-- VIDEOS_TABLE_START -->
+| 2022-03-28 | [Windows 7 Ultimate x64 - SP1 (Fully Updated) 7 Service Pack 1 (SP1) 2022 latest Updates ISO file](https://worldgyan.com/videos/yY2m02YnrhA) | [Watch on YouTube](https://www.youtube.com/watch?v=yY2m02YnrhA) |
+
 | 2022-03-28 | [Advance Angular 13 Tutorials | Angular pip | Transforming Data Using Pipes - Angular](https://worldgyan.com/videos/zNHS-1BO8FU) | [Watch on YouTube](https://www.youtube.com/watch?v=zNHS-1BO8FU) |
 
 | 2022-03-28 | [27 | JavaScript Promise | What is Javascript Promise? |  How to use Promises in JS | Why use promise](https://worldgyan.com/videos/Y2jYw7vtaBY) | [Watch on YouTube](https://www.youtube.com/watch?v=Y2jYw7vtaBY) |
